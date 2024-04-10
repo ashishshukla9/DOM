@@ -90,7 +90,7 @@ backward.addEventListener("click", function () {
     }
 })
 
-
+backward.addEventListener()
 
 
 
